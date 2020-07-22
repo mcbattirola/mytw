@@ -1,0 +1,17 @@
+{
+  "name": "mytw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "tiddlywiki mytw --init server",
+    "start": "tiddlywiki mytw --listen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiddlywiki": "^5.1.22"
+  }
+}

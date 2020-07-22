@@ -1,0 +1,56 @@
+created: 20200722231346617
+modified: 20200722232439945
+tags: [[computer science]]
+title: A guide for the perplexed by Joe Armstrong - References
+type: text/vnd.tiddlywiki
+
+!! 2 great papers to read 
+* A Plea for Lean Software - Niklaus Wirth
+* The Emperor’s old clothes - ACM Turing award lecture - Tony Hoare
+
+!! 4 old tools to learn
+* emacs (vi)
+* bash
+*make
+*shell
+
+!! 4 really bad things
+* lack of privary
+* attempts to manipulate us through social media
+* vendor lock in
+* terms of condition
+
+!! 3 great books to read
+* Algorithms + Data Structres = Programs
+* The Mythical Man-Month
+* How To Win Friends And Influence People
+
+!! 1 fun programming exercise
+* Meta II - Asyntax-oriented compiler writing language
+
+!! 5 YouTube videos to Watch
+* The computer revolution has not happened yet - Alan Kay
+* Computers for Cynics - Ted Nelson 
+* Free is a lie (Aaron Balkan)
+* How a handful of tech companies control billions of minds every day Tristan Harris (TED-Talk)
+* Matt Might - Winning the War on Error: Solving Halting Problem, Curing Cancer - Code Mesh 2017
+
+!! 4 languages to learn
+* C
+* Prolog
+* Erlang
+* Javascript
+
+!! 4 great forgotten ideas
+* linda tuples space - David Gelernter and Nicholas Carriero. 
+* Flow based programming - John Paul Morrison. 
+* Xannadu - Ted Nelson
+* Unix pipes
+
+!! 6 areas  to research
+*Robotics
+* AI
+* Progammer productivity
+* Energy efficiency
+* Precision Medicine
+* Security
